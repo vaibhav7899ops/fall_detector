@@ -39,4 +39,12 @@ A wearable AI-powered system that continuously monitors vital signs and movement
 ---
 
 ## 📂 Project Structure
-
+healthy_hackers/
+├── app.py # Flask backend server
+├── train_model.ipynb # Notebook for training the ML model
+├── custom_fall_risk_model.pkl # Pre-trained ML model
+├── templates/
+│ └── index.html # Main web interface
+├── static/
+│ └── images/ # Watch & background images
+└── README.md
